@@ -1,6 +1,7 @@
 #coding=utf-8
 #author:whale3070
 #备注：没写完，有空继续写，能跟cnvd进行交互，存在自动提交的可能性
+#link: https://blog.csdn.net/weixin_40502018/article/details/112581719
 import requests
 from lxml import etree
 import xlsxwriter
